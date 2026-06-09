@@ -1,0 +1,6 @@
+{
+  "name": "Simba Facility Management - Gebäudereinigung Wien",
+  "description": "Simba Facility Management bietet professionelle Gebäudereinigung und zuverlässigen Objektservice für Unternehmen, Büros und Wohnanlagen. Gründliche Reinigung, flexible Betreuung und höchste Sauberkeit aus einer Hand..",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
